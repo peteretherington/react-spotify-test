@@ -1,0 +1,9 @@
+.App {
+  max-width: 1000px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.App>div {
+  margin: 20px auto;
+}
